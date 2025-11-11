@@ -12,6 +12,7 @@ This project presents a comparative study of multiple control strategies for reg
   ✅ Linear Quadratic Regulator (LQR)
 
   ✅ Fuzzy Logic Controllers (PI & PD)
+  
 
 The project is implemented and simulated using MATLAB/Simulink, please refer to the pdf file for details
 
