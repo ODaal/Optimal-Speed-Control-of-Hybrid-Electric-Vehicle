@@ -1,5 +1,5 @@
 # Optimal-Speed-Control-of-Hybrid-Electric-Vehicle
-This project presents a comparative study of multiple control strategies for regulating the speed of a Hybrid Electric Vehicle (HEV)
+This project presents a comparative study of multiple control strategies for regulating the speed of a Hybrid Electric Vehicle (HEV).
 
 🛠️ Implemented Controllers:
 
@@ -15,6 +15,6 @@ This project presents a comparative study of multiple control strategies for reg
   
 
 
-The project is implemented and simulated using MATLAB/Simulink, please refer to the pdf file for details
+The project is implemented and simulated using MATLAB/Simulink, please refer to the pdf file for details.
 
-Note: This project was done in a group of 3
+Note: This project was done in a group of three.
